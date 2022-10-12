@@ -1,0 +1,1 @@
+exports.authmiddleware = require('./auth.middleware');
